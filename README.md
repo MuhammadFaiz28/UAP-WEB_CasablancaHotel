@@ -1,9 +1,9 @@
 # UAP-WEB_CasablancaHotel
 
-<h1>Anggota Kelompok Kelas B</h1>
+<h3>Anggota Kelompok Kelas B</h3>
 
-Muhammad Faiz - 2017051007
-Muhammad Sultan Raisyah - 2057051019
+Muhammad Faiz - 2017051007 <br>
+Muhammad Sultan Raisyah - 2057051019 <br>
 Abia Bagas Tufari - 2017051081
 
 <hr>
