@@ -19,7 +19,7 @@ Muhammad Sultan Raisyah
 - Menyambungkan UI ke database
 
 Abia Bagas Tufari
-- membantu koding
+- Membantu koding
 
 Link Hosting Project Kami
 <br>
