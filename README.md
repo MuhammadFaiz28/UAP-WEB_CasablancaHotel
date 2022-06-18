@@ -1,12 +1,14 @@
 # UAP-WEB_CasablancaHotel
 
-Anggota Kelompok Kelas B
+<h1>Anggota Kelompok Kelas B</h1>
 
 Muhammad Faiz - 2017051007
 Muhammad Sultan Raisyah - 2057051019
 Abia Bagas Tufari - 2017051081
 
-Pembagian Tugas
+<hr>
+
+<b>Pembagian Tugas</b>
 
 Muhammad Faiz
 - Mendesign User Interface menggunakan Bootstrap & CSS
@@ -18,4 +20,5 @@ Abia Bagas Tufari
 - membantu koding
 
 Link Hosting Project Kami
+<br>
 https://marimenginap.000webhostapp.com/index.php
