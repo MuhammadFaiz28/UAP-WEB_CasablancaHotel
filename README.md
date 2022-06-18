@@ -14,7 +14,8 @@ Muhammad Faiz
 - Mendesign User Interface menggunakan Bootstrap & CSS
 
 Muhammad Sultan Raisyah
-- melakukan koding
+- Mengkode CRUD
+- Menyambungkan UI ke database
 
 Abia Bagas Tufari
 - membantu koding
