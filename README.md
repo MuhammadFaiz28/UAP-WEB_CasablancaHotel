@@ -20,7 +20,7 @@ Muhammad Faiz
 Muhammad Sultan Raisyah
 - Menentukan Ide Project
 - Mengkode fitur CRUD dengan PHP
-- Backend dengan 00webhosting
+- Backend dengan 000webhosting
 - Problem Solving
 
 Abia Bagas Tufari
