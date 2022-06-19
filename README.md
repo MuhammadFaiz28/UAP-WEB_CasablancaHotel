@@ -12,16 +12,19 @@ Abia Bagas Tufari - 2017051081
 <b>Pembagian Tugas</b>
 
 Muhammad Faiz
+- Menentukan Ide Project
 - Frontend Dengan Bootstrap & CSS
 - Mendesign User Interface
 
 Muhammad Sultan Raisyah
+- Menentukan Ide Project
 - Backend dengan 00webhosting
 - Mengkode CRUD
 
 Abia Bagas Tufari
+- Menentukan Ide Project
 - Membuat database
-- Menyambungkan ke database
+- Menyambungkan UI ke database
 
 Link Hosting Project Kami
 <br>
