@@ -12,14 +12,16 @@ Abia Bagas Tufari - 2017051081
 <b>Pembagian Tugas</b>
 
 Muhammad Faiz
-- Mendesign User Interface menggunakan Bootstrap & CSS
+- Frontend Dengan Bootstrap & CSS
+- Mendesign User Interface
 
 Muhammad Sultan Raisyah
+- Backend dengan 00webhosting
 - Mengkode CRUD
-- Menyambungkan UI ke database
 
 Abia Bagas Tufari
 - Membuat database
+- Menyambungkan ke database
 
 Link Hosting Project Kami
 <br>
