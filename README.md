@@ -19,7 +19,7 @@ Muhammad Sultan Raisyah
 - Menyambungkan UI ke database
 
 Abia Bagas Tufari
-- MEmbuat database
+- Membuat database
 
 Link Hosting Project Kami
 <br>
