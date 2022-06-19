@@ -18,8 +18,8 @@ Muhammad Faiz
 
 Muhammad Sultan Raisyah
 - Menentukan Ide Project
-- Backend dengan 00webhosting
-- Mengkode CRUD
+- Mengkode fitur CRUD dengan PHP
+- Mengkode semua bagian Backend dengan PHP
 
 Abia Bagas Tufari
 - Menentukan Ide Project
